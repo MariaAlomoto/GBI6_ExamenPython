@@ -15,9 +15,14 @@ LAPTOP-5NRUPHSP
 * Version 21H1
 
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
-* GitHub
-* GitBash
-* Jupyter
+
+Version de Python/Anaconda:Anaconda3 2021.11 (Python 3.9.7) de 64-bit
+*modulo re:import re
+print(re.__version__)
+2.2.1
+* modulopandas:import pandas
+print(pandas.__version__)
+1.3.4
 
 # Explicacion de la data utilizada
-Utilizamos el IDE de Unix, y aplicamos conceptos basicos como son la cfeación de un directorio, crear archivos
+Se uso toda la data necesaria para la resolucion del examen, extrayendola de PubMed y NCBI
